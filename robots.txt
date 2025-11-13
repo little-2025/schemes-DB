@@ -1,0 +1,24 @@
+# ────────────────────────────────────────────────
+# robots.txt – schemes.co.ke
+# Last updated: 2025‑07‑11
+# Purpose: Let search engines crawl all public content
+#          while keeping admin & system folders private.
+# ────────────────────────────────────────────────
+
+User-agent: *
+  # Block private / back‑office areas
+  Disallow: /admin/
+  Disallow: /includes/
+  Disallow: /data/
+  Disallow: /cache/
+  Disallow: /docs/               # Physical files: served via PHP, no direct crawl
+  Disallow: /*?sessionid=         # Prevent duplicate param crawling
+
+  # Allow everything else
+  Allow: /
+
+  # Crawl‑delay is optional; uncomment if the server feels overloaded
+  # Crawl-delay: 5
+
+# ── Sitemap location (always include full URL) ──
+Sitemap: https://schemes.co.ke/sitemap.xml
