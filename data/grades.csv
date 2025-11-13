@@ -1,0 +1,241 @@
+id,level_id,slug,title,description,ordinal
+1,1,pp1,PP1,"Pre-Primary 1",1
+2,1,pp2,PP2,"Pre-Primary 2",2
+3,1,grade-1,Grade 1,"Grade 1",3
+4,1,grade-2,Grade 2,"Grade 2",4
+5,1,grade-3,Grade 3,"Grade 3",5
+6,2,grade-4,Grade 4,"Grade 4",1
+7,2,grade-5,Grade 5,"Grade 5",2
+8,2,grade-6,Grade 6,"Grade 6",3
+9,3,pp1,PP1,"Pre-Primary 1",1
+10,3,pp2,PP2,"Pre-Primary 2",2
+11,3,grade-1,Grade 1,"Grade 1",3
+12,3,grade-2,Grade 2,"Grade 2",4
+13,3,grade-3,Grade 3,"Grade 3",5
+14,4,grade-4,Grade 4,"Grade 4",1
+15,4,grade-5,Grade 5,"Grade 5",2
+16,4,grade-6,Grade 6,"Grade 6",3
+17,5,pp1,PP1,"Pre-Primary 1",1
+18,5,pp2,PP2,"Pre-Primary 2",2
+19,5,grade-1,Grade 1,"Grade 1",3
+20,5,grade-2,Grade 2,"Grade 2",4
+21,5,grade-3,Grade 3,"Grade 3",5
+22,6,grade-4,Grade 4,"Grade 4",1
+23,6,grade-5,Grade 5,"Grade 5",2
+24,6,grade-6,Grade 6,"Grade 6",3
+25,7,grade-7,Grade 7,"Grade 7",1
+26,7,grade-8,Grade 8,"Grade 8",2
+27,7,grade-9,Grade 9,"Grade 9",3
+28,8,form-1,Form 1,"Form 1",1
+29,8,form-2,Form 2,"Form 2",2
+30,8,form-3,Form 3,"Form 3",3
+31,8,form-4,Form 4,"Form 4",4
+32,9,grade-10,Grade 10,"Grade 10",1
+33,9,grade-11,Grade 11,"Grade 11",2
+34,9,grade-12,Grade 12,"Grade 12",3
+35,10,year-1,Year 1,"Year 1",1
+36,10,year-2,Year 2,"Year 2",2
+37,10,year-3,Year 3,"Year 3",3
+38,11,pp1,PP1,"Pre-Primary 1",1
+39,11,pp2,PP2,"Pre-Primary 2",2
+40,11,grade-1,Grade 1,"Grade 1",3
+41,11,grade-2,Grade 2,"Grade 2",4
+42,11,grade-3,Grade 3,"Grade 3",5
+43,12,grade-4,Grade 4,"Grade 4",1
+44,12,grade-5,Grade 5,"Grade 5",2
+45,12,grade-6,Grade 6,"Grade 6",3
+46,13,grade-7,Grade 7,"Grade 7",1
+47,13,grade-8,Grade 8,"Grade 8",2
+48,13,grade-9,Grade 9,"Grade 9",3
+49,14,form-1,Form 1,"Form 1",1
+50,14,form-2,Form 2,"Form 2",2
+51,14,form-3,Form 3,"Form 3",3
+52,14,form-4,Form 4,"Form 4",4
+53,15,grade-10,Grade 10,"Grade 10",1
+54,15,grade-11,Grade 11,"Grade 11",2
+55,15,grade-12,Grade 12,"Grade 12",3
+56,16,grade-7,Grade 7,"Grade 7",1
+57,16,grade-8,Grade 8,"Grade 8",2
+58,16,grade-9,Grade 9,"Grade 9",3
+59,17,grade-7,Grade 7,"Grade 7",1
+60,17,grade-8,Grade 8,"Grade 8",2
+61,17,grade-9,Grade 9,"Grade 9",3
+62,18,form-1,Form 1,"Form 1",1
+63,18,form-2,Form 2,"Form 2",2
+64,18,form-3,Form 3,"Form 3",3
+65,18,form-4,Form 4,"Form 4",4
+66,19,grade-10,Grade 10,"Grade 10",1
+67,19,grade-11,Grade 11,"Grade 11",2
+68,19,grade-12,Grade 12,"Grade 12",3
+69,20,form-1,Form 1,"Form 1",1
+70,20,form-2,Form 2,"Form 2",2
+71,20,form-3,Form 3,"Form 3",3
+72,20,form-4,Form 4,"Form 4",4
+73,21,pp1,PP1,"Pre-Primary 1",1
+74,21,pp2,PP2,"Pre-Primary 2",2
+75,21,grade-1,Grade 1,"Grade 1",3
+76,21,grade-2,Grade 2,"Grade 2",4
+77,21,grade-3,Grade 3,"Grade 3",5
+78,22,grade-4,Grade 4,"Grade 4",1
+79,22,grade-5,Grade 5,"Grade 5",2
+80,22,grade-6,Grade 6,"Grade 6",3
+81,23,grade-7,Grade 7,"Grade 7",1
+82,23,grade-8,Grade 8,"Grade 8",2
+83,23,grade-9,Grade 9,"Grade 9",3
+84,24,form-1,Form 1,"Form 1",1
+85,24,form-2,Form 2,"Form 2",2
+86,24,form-3,Form 3,"Form 3",3
+87,24,form-4,Form 4,"Form 4",4
+88,25,grade-10,Grade 10,"Grade 10",1
+89,25,grade-11,Grade 11,"Grade 11",2
+90,25,grade-12,Grade 12,"Grade 12",3
+91,26,pp1,PP1,"Pre-Primary 1",1
+92,26,pp2,PP2,"Pre-Primary 2",2
+93,26,grade-1,Grade 1,"Grade 1",3
+94,26,grade-2,Grade 2,"Grade 2",4
+95,26,grade-3,Grade 3,"Grade 3",5
+96,27,grade-4,Grade 4,"Grade 4",1
+97,27,grade-5,Grade 5,"Grade 5",2
+98,27,grade-6,Grade 6,"Grade 6",3
+99,28,grade-7,Grade 7,"Grade 7",1
+100,28,grade-8,Grade 8,"Grade 8",2
+101,28,grade-9,Grade 9,"Grade 9",3
+102,29,form-1,Form 1,"Form 1",1
+103,29,form-2,Form 2,"Form 2",2
+104,29,form-3,Form 3,"Form 3",3
+105,29,form-4,Form 4,"Form 4",4
+106,30,grade-10,Grade 10,"Grade 10",1
+107,30,grade-11,Grade 11,"Grade 11",2
+108,30,grade-12,Grade 12,"Grade 12",3
+109,31,pp1,PP1,"Pre-Primary 1",1
+110,31,pp2,PP2,"Pre-Primary 2",2
+111,31,grade-1,Grade 1,"Grade 1",3
+112,31,grade-2,Grade 2,"Grade 2",4
+113,31,grade-3,Grade 3,"Grade 3",5
+114,32,grade-4,Grade 4,"Grade 4",1
+115,32,grade-5,Grade 5,"Grade 5",2
+116,32,grade-6,Grade 6,"Grade 6",3
+117,33,grade-7,Grade 7,"Grade 7",1
+118,33,grade-8,Grade 8,"Grade 8",2
+119,33,grade-9,Grade 9,"Grade 9",3
+120,34,form-1,Form 1,"Form 1",1
+121,34,form-2,Form 2,"Form 2",2
+122,34,form-3,Form 3,"Form 3",3
+123,34,form-4,Form 4,"Form 4",4
+124,35,grade-10,Grade 10,"Grade 10",1
+125,35,grade-11,Grade 11,"Grade 11",2
+126,35,grade-12,Grade 12,"Grade 12",3
+127,36,pp1,PP1,"Pre-Primary 1",1
+128,36,pp2,PP2,"Pre-Primary 2",2
+129,36,grade-1,Grade 1,"Grade 1",3
+130,36,grade-2,Grade 2,"Grade 2",4
+131,36,grade-3,Grade 3,"Grade 3",5
+132,37,grade-4,Grade 4,"Grade 4",1
+133,37,grade-5,Grade 5,"Grade 5",2
+134,37,grade-6,Grade 6,"Grade 6",3
+135,38,grade-7,Grade 7,"Grade 7",1
+136,38,grade-8,Grade 8,"Grade 8",2
+137,38,grade-9,Grade 9,"Grade 9",3
+138,39,form-1,Form 1,"Form 1",1
+139,39,form-2,Form 2,"Form 2",2
+140,39,form-3,Form 3,"Form 3",3
+141,39,form-4,Form 4,"Form 4",4
+142,40,grade-10,Grade 10,"Grade 10",1
+143,40,grade-11,Grade 11,"Grade 11",2
+144,40,grade-12,Grade 12,"Grade 12",3
+145,41,year-1,Year 1,"Year 1",1
+146,41,year-2,Year 2,"Year 2",2
+147,41,year-3,Year 3,"Year 3",3
+148,42,pp1,PP1,"Pre-Primary 1",1
+149,42,pp2,PP2,"Pre-Primary 2",2
+150,42,grade-1,Grade 1,"Grade 1",3
+151,42,grade-2,Grade 2,"Grade 2",4
+152,42,grade-3,Grade 3,"Grade 3",5
+153,43,grade-4,Grade 4,"Grade 4",1
+154,43,grade-5,Grade 5,"Grade 5",2
+155,43,grade-6,Grade 6,"Grade 6",3
+156,44,grade-7,Grade 7,"Grade 7",1
+157,44,grade-8,Grade 8,"Grade 8",2
+158,44,grade-9,Grade 9,"Grade 9",3
+159,45,form-1,Form 1,"Form 1",1
+160,45,form-2,Form 2,"Form 2",2
+161,45,form-3,Form 3,"Form 3",3
+162,45,form-4,Form 4,"Form 4",4
+163,46,grade-10,Grade 10,"Grade 10",1
+164,46,grade-11,Grade 11,"Grade 11",2
+165,46,grade-12,Grade 12,"Grade 12",3
+166,47,pp1,PP1,"Pre-Primary 1",1
+167,47,pp2,PP2,"Pre-Primary 2",2
+168,47,grade-1,Grade 1,"Grade 1",3
+169,47,grade-2,Grade 2,"Grade 2",4
+170,47,grade-3,Grade 3,"Grade 3",5
+171,48,grade-4,Grade 4,"Grade 4",1
+172,48,grade-5,Grade 5,"Grade 5",2
+173,48,grade-6,Grade 6,"Grade 6",3
+174,49,grade-7,Grade 7,"Grade 7",1
+175,49,grade-8,Grade 8,"Grade 8",2
+176,49,grade-9,Grade 9,"Grade 9",3
+177,50,form-1,Form 1,"Form 1",1
+178,50,form-2,Form 2,"Form 2",2
+179,50,form-3,Form 3,"Form 3",3
+180,50,form-4,Form 4,"Form 4",4
+181,51,grade-10,Grade 10,"Grade 10",1
+182,51,grade-11,Grade 11,"Grade 11",2
+183,51,grade-12,Grade 12,"Grade 12",3
+184,52,pp1,PP1,"Pre-Primary 1",1
+185,52,pp2,PP2,"Pre-Primary 2",2
+186,52,grade-1,Grade 1,"Grade 1",3
+187,52,grade-2,Grade 2,"Grade 2",4
+188,52,grade-3,Grade 3,"Grade 3",5
+189,53,grade-4,Grade 4,"Grade 4",1
+190,53,grade-5,Grade 5,"Grade 5",2
+191,53,grade-6,Grade 6,"Grade 6",3
+192,54,grade-7,Grade 7,"Grade 7",1
+193,54,grade-8,Grade 8,"Grade 8",2
+194,54,grade-9,Grade 9,"Grade 9",3
+195,55,form-1,Form 1,"Form 1",1
+196,55,form-2,Form 2,"Form 2",2
+197,55,form-3,Form 3,"Form 3",3
+198,55,form-4,Form 4,"Form 4",4
+199,56,grade-10,Grade 10,"Grade 10",1
+200,56,grade-11,Grade 11,"Grade 11",2
+201,56,grade-12,Grade 12,"Grade 12",3
+202,57,pp1,PP1,"Pre-Primary 1",1
+203,57,pp2,PP2,"Pre-Primary 2",2
+204,57,grade-1,Grade 1,"Grade 1",3
+205,57,grade-2,Grade 2,"Grade 2",4
+206,57,grade-3,Grade 3,"Grade 3",5
+207,58,grade-4,Grade 4,"Grade 4",1
+208,58,grade-5,Grade 5,"Grade 5",2
+209,58,grade-6,Grade 6,"Grade 6",3
+210,59,grade-7,Grade 7,"Grade 7",1
+211,59,grade-8,Grade 8,"Grade 8",2
+212,59,grade-9,Grade 9,"Grade 9",3
+213,60,form-1,Form 1,"Form 1",1
+214,60,form-2,Form 2,"Form 2",2
+215,60,form-3,Form 3,"Form 3",3
+216,60,form-4,Form 4,"Form 4",4
+217,61,grade-10,Grade 10,"Grade 10",1
+218,61,grade-11,Grade 11,"Grade 11",2
+219,61,grade-12,Grade 12,"Grade 12",3
+220,62,pp1,PP1,"Pre-Primary 1",1
+221,62,pp2,PP2,"Pre-Primary 2",2
+222,62,grade-1,Grade 1,"Grade 1",3
+223,62,grade-2,Grade 2,"Grade 2",4
+224,62,grade-3,Grade 3,"Grade 3",5
+225,63,grade-4,Grade 4,"Grade 4",1
+226,63,grade-5,Grade 5,"Grade 5",2
+227,63,grade-6,Grade 6,"Grade 6",3
+228,64,grade-7,Grade 7,"Grade 7",1
+229,64,grade-8,Grade 8,"Grade 8",2
+230,64,grade-9,Grade 9,"Grade 9",3
+231,65,form-1,Form 1,"Form 1",1
+232,65,form-2,Form 2,"Form 2",2
+233,65,form-3,Form 3,"Form 3",3
+234,65,form-4,Form 4,"Form 4",4
+235,66,grade-10,Grade 10,"Grade 10",1
+236,66,grade-11,Grade 11,"Grade 11",2
+237,66,grade-12,Grade 12,"Grade 12",3
+238,67,year-1,Year 1,"Year 1",1
+239,67,year-2,Year 2,"Year 2",2
+240,67,year-3,Year 3,"Year 3",3
